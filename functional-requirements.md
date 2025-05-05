@@ -118,6 +118,7 @@ gantt
     Objs & Pts Logic              :b2,      after b1, 7d
     Excel Parser                  :b3,      2025-05-26, 5d
     Videos Model                  :b4,      2025-05-12, 5d
+    Prizes API                    :b12,      after b2, 5d
     Adapt Prizes                  :b5,      after b3, 5d
     Contact Channel               :b6,      after b3, 5d
     Videos + Quiz Pts Models      :b7,      2025-06-16, 10d
