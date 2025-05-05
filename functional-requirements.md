@@ -90,8 +90,8 @@ To create an internal-use platform for sellers, managers, regional managers, and
 - **FRR5.2**: Admins can create and configure custom objectives from the admin panel.
 - **FRR5.3**: Admins can manage the reward catalog, including creating, editing, and deleting prize entries.
 - **FRR5.4**: Admins can update the delivery status of redeemed physical prizes.
-- **FRR5.3**: Dashboard for monitoring user participation and overall progress.
-- **FRR5.4**: Filterable KPIs and reporting interface (exportable CSV, PDF, or charts).
+- **FRR5.5**: Dashboard for monitoring user participation and overall progress.
+- **FRR5.6**: Filterable KPIs and reporting interface (exportable CSV, PDF, or charts).
 ---
 ## 🛠 Non-Functional Requirements (brief)
 - NFR1: The system must respond within 1s for API actions under 1000 concurrent users.
