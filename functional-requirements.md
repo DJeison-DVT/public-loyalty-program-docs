@@ -31,9 +31,8 @@ To create an internal-use platform for sellers, managers, regional managers, and
 - **FR2.2**: Users are assigned custom objectives via the admin dashboard.
 - **FR2.3**: When an objective is completed, the system awards a set amount of points.
 - **FR2.4**: Objectives may be updated or marked complete via Excel input or internal events (e.g., video watched, event completed).
-### 3. Excel Sales Input
-- **FR3.1**: Admins can upload daily Excel files with sales data.
-- **FR3.2**: The system must map the data to users and evaluate relevant objectives automatically.
+### 3. PowerBI Sales Input
+- **FR3.1**: The system must map the data to users and evaluate relevant objectives automatically.
 ### 4. Prize Redemption
 - **FR4.2**: Points must be deducted upon prize redemption.
 - **FR4.3**: Admins are shown a list of available prizes.
